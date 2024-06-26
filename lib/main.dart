@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'FB ADS',
-      home: HomeScren(),
+      home: HomePageView(),
     );
   }
 }
